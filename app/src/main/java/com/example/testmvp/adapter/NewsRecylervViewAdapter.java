@@ -21,7 +21,7 @@ import java.util.List;
  * Created by Praveen
  */
 
-public class NewsRecylervViewAdapter  extends RecyclerView.Adapter<NewsRecylervViewAdapter.MovieViewHolder> {
+public class NewsRecylervViewAdapter  extends RecyclerView.Adapter<NewsRecylervViewAdapter.MovieViewHolder> { //hi
 
     private List<Result> getDataReponseList;
     private Context _context;
